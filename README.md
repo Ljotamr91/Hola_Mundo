@@ -1,6 +1,8 @@
 # Plantilla_Front_2020
 Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
 
+0 borrar carpeta .git que ya viene de la clonacion 
+	carpeta oculta .git
 
 1 clonas repositorio 
 
@@ -28,3 +30,12 @@ Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
 6 subimos los cambios definitivamente 
 
 	git push origin master
+
+X  eliminar tus vias remotas
+
+	git remote remove origin
+
+Y luego crearlas con TU url, no la mia, tu GitHub
+	git remote origin master
+
+Z repetir el 4 y el 6 cada vez que quieras actualiar en tu repositorio github

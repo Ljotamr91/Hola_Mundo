@@ -1,5 +1,5 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Hola_Mundo
+Proyecto 1 Hola_Mundo Tambien utilizado para tomar apuntes y ejemplos
 
 0 borrar carpeta .git que ya viene de la clonacion 
 	carpeta oculta .git

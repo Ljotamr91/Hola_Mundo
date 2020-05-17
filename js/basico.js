@@ -263,3 +263,4 @@ switch(tiempo){     //obligatorio en cada caso terminar con break
         break;
     default:
         console.log('Error');   //opcional para que sepan que algo esta mal
+}

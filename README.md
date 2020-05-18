@@ -3,6 +3,7 @@ Proyecto 1 Hola_Mundo Tambien utilizado para tomar apuntes y ejemplos
 
 0 borrar carpeta .git que ya viene de la clonacion 
 	carpeta oculta .git
+		 rm -rf .git
 
 1 clonas repositorio 
 

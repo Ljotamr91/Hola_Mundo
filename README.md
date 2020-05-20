@@ -1,13 +1,14 @@
 # Hola_Mundo
 Proyecto 1 Hola_Mundo Tambien utilizado para tomar apuntes y ejemplos
 
-0 borrar carpeta .git que ya viene de la clonacion 
+0 clonas repositorio 
+
+    git clone url
+
+ 1 borrar carpeta .git que ya viene de la clonacion 
 	carpeta oculta .git
 		 rm -rf .git
 
-1 clonas repositorio 
-
-    git clone url
 
 2 inicializas el repositorio para que cree la carpeta oculta .git
 
@@ -40,3 +41,6 @@ Y luego crearlas con TU url, no la mia, tu GitHub
 	git remote origin master
 
 Z repetir el 4 y el 6 cada vez que quieras actualiar en tu repositorio github
+
+llamar al js desde el html 
+	<script types="text/javascript" src="js/"></script>
